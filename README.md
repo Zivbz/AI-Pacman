@@ -1,4 +1,9 @@
-# Berekeley---AI-Pacman-project
+# AI-Pacman-project--Berekeley
+
+The project involves implementing various search algorithms using Python.
+
+Some of the algorithms I've implemented include BFS, DFS, A-star, and MINIMAX.
+
+You can find my code in Projects 1 and 2 - search.py, searchAgents.py, and multiAgents.py.
 
 
-I have done this project as part of an intro to AI course for Computer Science degree.
